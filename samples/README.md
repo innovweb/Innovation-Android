@@ -1,0 +1,1 @@
+This is a pretty basic to-do list app that can add items to a database and display them in a list format. This isn't necessarily the only way to accomplish something like this, but if you look at TodoList/src/com/example/TodoList/MainActivity.java you can probably get an idea of how the app might work in general.
