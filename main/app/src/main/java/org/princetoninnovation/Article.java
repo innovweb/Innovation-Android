@@ -23,44 +23,23 @@ public class Article {
 	public ArrayList<String> getTags() {
 		return tags;
 	}
-	public void setTags(ArrayList<String> tags) {
-		this.tags = tags;
-	}
 	public String getTitle() {
 		return title;
-	}
-	public void setTitle(String title) {
-		this.title = title;
 	}
 	public String getImgurl() {
 		return imgurl;
 	}
-	public void setImgurl(String imgurl) {
-		this.imgurl = imgurl;
-	}
 	public String getAuthor() {
 		return author;
-	}
-	public void setAuthor(String author) {
-		this.author = author;
 	}
 	public String getText() {
 		return text;
 	}
-	public void setText(String text) {
-		this.text = text;
-	}
 	public Date getDatePublished() {
 		return datePublished;
-	}
-	public void setDatePublished(Date datePublished) {
-		this.datePublished = datePublished;
 	}
 	public String getMagazine() {
 		return magazine;
 	}
-	public void setMagazine(String magazine) {
-		this.magazine = magazine;
-	}
-	
+		
 }
